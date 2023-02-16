@@ -1,0 +1,27 @@
+﻿@model Core_Auth.Models.Spot
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Spot</h4>
+    <hr />
+    <dl class="row table-active table-primary">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.SpotName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SpotName)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete" class="table-active">
+        <input type="hidden" asp-for="SpotId" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> <br />
+        <a asp-action="Index" class="text-decoration-none">Back to List</a>
+    </form>
+</div>

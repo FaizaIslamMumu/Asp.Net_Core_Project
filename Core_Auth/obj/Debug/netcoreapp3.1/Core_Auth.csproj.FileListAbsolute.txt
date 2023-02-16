@@ -1,0 +1,906 @@
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.StaticWebAssets.xml
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.exe
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.deps.json
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.runtimeconfig.json
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.pdb
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.Views.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.Views.pdb
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.AssemblyInfo.cs
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\staticwebassets\Core_Auth.StaticWebAssets.Manifest.cache
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\staticwebassets\Core_Auth.StaticWebAssets.Pack.cache
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Core_Auth.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Core_Auth.props
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Core_Auth.props
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Core_Auth.props
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\staticwebassets\Core_Auth.StaticWebAssets.xml
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.TagHelpers.input.cache
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.TagHelpers.output.cache
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.RazorCoreGenerate.cache
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.RazorTargetAssemblyInfo.cs
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.Views.pdb
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.csproj.CopyComplete
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.pdb
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.genruntimeconfig.cache
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Role\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Role\AssignRole.cshtml.g.cs
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\appsettings.json
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.StaticWebAssets.xml
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.exe
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.deps.json
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.runtimeconfig.json
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.runtimeconfig.dev.json
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.pdb
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.Views.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.Views.pdb
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.GeneratedMSBuildEditorConfig.editorconfig
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.AssemblyInfoInputs.cache
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.AssemblyInfo.cs
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.csproj.CoreCompileInputs.cache
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.MvcApplicationPartsAssemblyInfo.cs
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.MvcApplicationPartsAssemblyInfo.cache
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.RazorAssemblyInfo.cache
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.RazorAssemblyInfo.cs
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\staticwebassets\Core_Auth.StaticWebAssets.Manifest.cache
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\staticwebassets\Core_Auth.StaticWebAssets.xml
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.TagHelpers.input.cache
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.TagHelpers.output.cache
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.RazorCoreGenerate.cache
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Role\AssignRole.cshtml.g.cs
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Role\Index.cshtml.g.cs
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.RazorTargetAssemblyInfo.cache
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.RazorTargetAssemblyInfo.cs
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.Views.pdb
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.csproj.CopyComplete
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.dll
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.pdb
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.genruntimeconfig.cache
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.csproj.AssemblyReference.cache
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Plants\Create.cshtml.g.cs
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Plants\Edit.cshtml.g.cs
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Plants\Index.cshtml.g.cs
+E:\R_51\CoreProject_Exam_09\Core_Project_AM\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Plants\_AddNewpot.cshtml.g.cs
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.StaticWebAssets.xml
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.exe
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.deps.json
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.runtimeconfig.json
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.runtimeconfig.dev.json
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.pdb
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.Views.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.Views.pdb
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.csproj.AssemblyReference.cache
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.GeneratedMSBuildEditorConfig.editorconfig
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.AssemblyInfoInputs.cache
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.AssemblyInfo.cs
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.csproj.CoreCompileInputs.cache
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.MvcApplicationPartsAssemblyInfo.cs
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.MvcApplicationPartsAssemblyInfo.cache
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.RazorAssemblyInfo.cache
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.RazorAssemblyInfo.cs
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\staticwebassets\Core_Auth.StaticWebAssets.Manifest.cache
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\staticwebassets\Core_Auth.StaticWebAssets.Pack.cache
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Core_Auth.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Core_Auth.props
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Core_Auth.props
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Core_Auth.props
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\staticwebassets\Core_Auth.StaticWebAssets.xml
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.TagHelpers.input.cache
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.TagHelpers.output.cache
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.RazorCoreGenerate.cache
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Role\AssignRole.cshtml.g.cs
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Role\Index.cshtml.g.cs
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.RazorTargetAssemblyInfo.cache
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.RazorTargetAssemblyInfo.cs
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.Views.pdb
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.csproj.CopyComplete
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.dll
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.pdb
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.genruntimeconfig.cache
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Clients\Create.cshtml.g.cs
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Clients\Edit.cshtml.g.cs
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Clients\Index.cshtml.g.cs
+E:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Clients\_AddNewSpot.cshtml.g.cs
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\appsettings.json
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.StaticWebAssets.xml
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.exe
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.deps.json
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.runtimeconfig.json
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.runtimeconfig.dev.json
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.pdb
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.Views.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.Views.pdb
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.csproj.AssemblyReference.cache
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.AssemblyInfoInputs.cache
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.AssemblyInfo.cs
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.csproj.CoreCompileInputs.cache
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.MvcApplicationPartsAssemblyInfo.cs
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.MvcApplicationPartsAssemblyInfo.cache
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.RazorAssemblyInfo.cache
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.RazorAssemblyInfo.cs
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\staticwebassets\Core_Auth.StaticWebAssets.Manifest.cache
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\staticwebassets\Core_Auth.StaticWebAssets.Pack.cache
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Core_Auth.Microsoft.AspNetCore.StaticWebAssets.props
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Core_Auth.props
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Core_Auth.props
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Core_Auth.props
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\staticwebassets\Core_Auth.StaticWebAssets.xml
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.TagHelpers.input.cache
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.TagHelpers.output.cache
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.RazorCoreGenerate.cache
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Clients\Create.cshtml.g.cs
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Clients\Edit.cshtml.g.cs
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Clients\Index.cshtml.g.cs
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Clients\_AddNewSpot.cshtml.g.cs
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Role\AssignRole.cshtml.g.cs
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Role\Index.cshtml.g.cs
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.RazorTargetAssemblyInfo.cache
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.RazorTargetAssemblyInfo.cs
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.Views.pdb
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.csproj.CopyComplete
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.dll
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.pdb
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.genruntimeconfig.cache
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Spots\Create.cshtml.g.cs
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Spots\Delete.cshtml.g.cs
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Spots\Details.cshtml.g.cs
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Spots\Edit.cshtml.g.cs
+E:\C# R_51\ASP.NET CORE\Project\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Spots\Index.cshtml.g.cs
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.StaticWebAssets.xml
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.exe
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.deps.json
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.runtimeconfig.json
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.runtimeconfig.dev.json
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.pdb
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.Views.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Core_Auth.Views.pdb
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.csproj.AssemblyReference.cache
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.GeneratedMSBuildEditorConfig.editorconfig
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.AssemblyInfoInputs.cache
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.AssemblyInfo.cs
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.csproj.CoreCompileInputs.cache
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.MvcApplicationPartsAssemblyInfo.cs
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.MvcApplicationPartsAssemblyInfo.cache
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.RazorAssemblyInfo.cache
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.RazorAssemblyInfo.cs
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\staticwebassets\Core_Auth.StaticWebAssets.Manifest.cache
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\staticwebassets\Core_Auth.StaticWebAssets.Pack.cache
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Core_Auth.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Core_Auth.props
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Core_Auth.props
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Core_Auth.props
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\staticwebassets\Core_Auth.StaticWebAssets.xml
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.TagHelpers.input.cache
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.TagHelpers.output.cache
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.RazorCoreGenerate.cache
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Clients\Create.cshtml.g.cs
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Clients\Edit.cshtml.g.cs
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Clients\Index.cshtml.g.cs
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Clients\_AddNewSpot.cshtml.g.cs
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Role\AssignRole.cshtml.g.cs
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Role\Index.cshtml.g.cs
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Spots\Create.cshtml.g.cs
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Spots\Delete.cshtml.g.cs
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Spots\Details.cshtml.g.cs
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Spots\Edit.cshtml.g.cs
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\Spots\Index.cshtml.g.cs
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.RazorTargetAssemblyInfo.cache
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.RazorTargetAssemblyInfo.cs
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.Views.pdb
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.csproj.CopyComplete
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.dll
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.pdb
+F:\Core_AuthWithMasterdetail\Core_Auth\obj\Debug\netcoreapp3.1\Core_Auth.genruntimeconfig.cache
